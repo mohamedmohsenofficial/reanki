@@ -178,10 +178,7 @@ Turn boring flashcards into a **scientifically-optimized, visually motivating le
 
 If you enjoy these templates, consider supporting! Every contribution helps 🌍✨  
 
-- [☕ Buy Me a Coffee](https://www.buymeacoffee.com/mohsenofficial)  
-- [💸 PayPal](https://www.paypal.me/mohsenofficial)  
-- [🎁 Patreon](https://www.patreon.com/mohsenofficial)  
-
+- [☕ Buy Me a Coffee](https://www.buymeacoffee.com/mohsenofficial)
 ---
 
 **Created with 💙 by Mohsen** – Transforming digital learning, one card at a time.  
