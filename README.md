@@ -178,7 +178,14 @@ Turn boring flashcards into a **scientifically-optimized, visually motivating le
 
 If you enjoy these templates, consider supporting! Every contribution helps 🌍✨  
 
-- [☕ Buy Me a Coffee](https://www.buymeacoffee.com/mohsenofficial)
+<p align="left">
+  <a href="https://buymeacoffee.com/mohsenofficial" target="_blank">
+    <img src="https://raw.githubusercontent.com/mohamedmohsenofficial/Files/refs/heads/main/Pictures/BMC%20Yellow%20Button%201.png?token=GHSAT0AAAAAADALYSTGX7PBEGSKQDCIQ7MQ2G6NZWQ" 
+         alt="Buy Me a Coffee" 
+         width="150">
+  </a>
+</p>
+
 ---
 
 **Created with 💙 by Mohsen** – Transforming digital learning, one card at a time.  
