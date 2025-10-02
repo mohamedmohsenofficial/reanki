@@ -9,6 +9,7 @@
 
 # Let’s Make Anki Awesome for Everyone 🔥🔥
 
+![Preview 0](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/Reanki.png?raw=true)
 ![Preview 1](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.png?raw=true)  
 ![Preview 2](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.1.0_20250906_212617_0000.png?raw=true)  
 ![Preview 3](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.1.0_20250906_212717_0000.png?raw=true)  
@@ -180,7 +181,7 @@ If you enjoy these templates, consider supporting! Every contribution helps 🌍
 
 <p align="left">
   <a href="https://buymeacoffee.com/mohsenofficial" target="_blank">
-    <img src="https://raw.githubusercontent.com/mohamedmohsenofficial/Files/refs/heads/main/Pictures/BMC%20Yellow%20Button%201.png?token=GHSAT0AAAAAADALYSTGX7PBEGSKQDCIQ7MQ2G6NZWQ" 
+    <img src="https://raw.githubusercontent.com/mohamedmohsenofficial/Files/refs/heads/main/Pictures/BMC%20Yellow%20Button%201.png?token=GHSAT0AAAAAADALYSTHHJLCLV45WESBGSEQ2G6RGIQ" 
          alt="Buy Me a Coffee" 
          width="150">
   </a>
