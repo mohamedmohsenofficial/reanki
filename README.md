@@ -9,7 +9,7 @@
 
 # Let’s Make Anki Awesome for Everyone 🔥🔥
 
-![Preview 0](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/Reanki.png?raw=true)
+![Preview 0](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/Reanki.jpg?raw=true)
 ![Preview 1](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.png?raw=true)  
 ![Preview 2](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.1.0_20250906_212617_0000.png?raw=true)  
 ![Preview 3](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.1.0_20250906_212717_0000.png?raw=true)  
