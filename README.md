@@ -9,8 +9,7 @@
 
 # Let’s Make Anki Awesome for Everyone 🔥🔥
 
-![Preview 0](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/Reanki.jpg?raw=true)
-![Preview 1](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.png?raw=true)  
+![Preview 0](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/Reanki.jpg?raw=true)  
 ![Preview 2](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.1.0_20250906_212617_0000.png?raw=true)  
 ![Preview 3](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.1.0_20250906_212717_0000.png?raw=true)  
 ![Preview 4](https://github.com/mohamedmohsenofficial/re-anki/blob/main/images/1.1.0_20250906_212757_0000.png?raw=true)  
@@ -43,7 +42,9 @@ Traditional Anki templates are boring:
 
 - Current mode: **Dark Mode only** for an eye-friendly experience  
 - Design evolves: Templates may change based on user suggestions  
-- RTL support: If a bug is reported in the RTL version, fixes are applied only to that version to ensure quality. The two versions may remain visually consistent but fixes differ depending on user reports  
+- RTL support: If a bug is reported in the RTL version, fixes are applied only to that version to ensure quality. The two versions may remain visually consistent but fixes differ depending on user reports
+- This review was done on a Samsung and iphone phones with the latest version of Android. Your version may differ in this regard.
+- We do not recommend using these templates on older phones, as they will be slow due to older CPU and GPU cards.
 - Contact & Suggestions: If you have any ideas or encounter any issues, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mohsenofficial) or open an [Issue on GitHub](https://github.com/mohamedmohsenofficial/re-anki/issues).
 ---
 
