@@ -85,12 +85,12 @@ Traditional Anki templates are boring:
 
 | Template Name           | Original             | Best For                      | RTL Support | Special Features                        |
 | ----------------------- | -------------------- | ----------------------------- | ----------- | --------------------------------------- |
-| **Quick Recall** ⚡      | Basic                | Vocabulary, quick facts       | ✅           | Animated reveal + smooth transitions    |
-| **Dual Perspective** 🎭 | Basic + Reverse      | Language pairs, concept links | ✅           | Two-way recall, mobile optimized        |
-| **Coder** 👨🏼‍💻       | Type Answer (Coding) | Programming, syntax           | ❌           | Code-friendly formatting, terminal look |
-| **Active Recall** ⌨️    | Type Answer          | Spelling, precise recall      | ✅           | Type-to-reveal with instant feedback    |
-| **Puzzle Piece** 🧩     | Cloze Deletion       | Fill-in-the-blanks            | ✅           | Multiple cloze gaps with animations     |
-| **Visual Scan** 🗺️     | Image Occlusion      | Maps, diagrams                | ✅           | Interactive masking, touch-ready        |
+| **Quick Recall** ⚡      | Basic                | Vocabulary, quick facts       | Yes           | Animated reveal + smooth transitions    |
+| **Dual Perspective** 🎭 | Basic + Reverse      | Language pairs, concept links | Yes           | Two-way recall, mobile optimized        |
+| **Coder** 👨🏼‍💻       | Type Answer (Coding) | Programming, syntax           | No           | Code-friendly formatting, terminal look |
+| **Active Recall** ⌨️    | Type Answer          | Spelling, precise recall      | Yes           | Type-to-reveal with instant feedback    |
+| **Puzzle Piece** 🧩     | Cloze Deletion       | Fill-in-the-blanks            | Yes           | Multiple cloze gaps with animations     |
+| **Visual Scan** 🗺️     | Image Occlusion      | Maps, diagrams                | Yes           | Interactive masking, touch-ready        |
 
 ---
 
@@ -178,17 +178,19 @@ Turn boring flashcards into a **scientifically-optimized, visually motivating le
 
 ## 💖 Support
 
-If you enjoy these templates, consider supporting! Every contribution helps 🌍✨  
+If you find this project useful, consider supporting its development. Every contribution helps improve features, maintain the project, and keep it accessible for everyone. 🌍✨
 
 <p align="left">
-  <a href="https://buymeacoffee.com/mohsenofficial" target="_blank">
-    <img src="https://raw.githubusercontent.com/mohamedmohsenofficial/Files/refs/heads/main/Pictures/BMC%20Yellow%20Button%201.png?token=GHSAT0AAAAAADALYSTHHJLCLV45WESBGSEQ2G6RGIQ" 
-         alt="Buy Me a Coffee" 
-         width="150">
+  <a href="https://www.buymeacoffee.com/mohsenofficial" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
   </a>
 </p>
 
 ---
 
-**Created with 💙 by Mohsen** – Transforming digital learning, one card at a time.  
-Love you guys 🤟🏼😘
+Created by [Mohamed Mohsen](https://www.linkedin.com/in/mohsenofficial)) 💙
+
+Built with passion, curiosity, countless hours of learning, and a deep love for open-source software.
+
+Thank you for using this project and being part of its journey. 🤟🏼😘
+
