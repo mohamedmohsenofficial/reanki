@@ -188,9 +188,9 @@ If you find this project useful, consider supporting its development. Every cont
 
 ---
 
-Created by [Mohamed Mohsen](https://www.linkedin.com/in/mohsenofficial)) 💙
+
+Built for my own needs, shared for the community. If it happens to help someone else, then it has done more than I originally intended
 
 Built with passion, curiosity, countless hours of learning, and a deep love for open-source software.
 
 Thank you for using this project and being part of its journey. 🤟🏼😘
-
